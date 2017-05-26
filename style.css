@@ -1,8 +1,42 @@
 body{
-color:#00F;
-font-size:2em;
+width:80%;
+background:#E1FFFF;
+margin:auto;
 }
-h1{
-margin:8px;
-background:#F00;
+header{
+width:100%;
+height:100px;
+background:#2B20FF;
 }
+nav{
+width:100%;
+height:100px;
+background:#FF9020;
+}
+#principa{
+width:100%;
+height:800px;
+background:#F0F882;
+margin:0 auto 0;
+}
+aside{
+width:30%;
+height:500px;
+background:#80EDAD;
+margin: 0 auto 0;
+float:left;
+}
+section{
+width:70%;
+height:500px;
+background:#AD80ED;
+margin:0 auto 0;
+float:left;
+}
+footer{
+width:100%;
+height:100px;
+background:#1A1421;
+margin:0 auto 0;
+}
+
